@@ -1,0 +1,3 @@
+--index-url https://${INDEX_TOKEN_NAME}:${INDEX_TOKEN}@git.dartmouth.edu/api/v4/projects/${INDEX_PROJECT_ID}/packages/pypi/simple
+
+planon
